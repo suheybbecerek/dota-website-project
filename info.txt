@@ -1,0 +1,7 @@
+
+1.Abbadon
+	can use ultimate while stunned
+	can deny himself with his first ability
+	shield cannot damage you if you are in F.O.W.
+2.Alchemist
+3.Ancient Apparition
